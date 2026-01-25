@@ -3,7 +3,7 @@
 Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) 커리큘럼을 따라 학습한 내용을 기록하는 저장소입니다.
 
 ## 📊 Progress
-![Progress](https://geps.dev/progress/1)
+![Progress](https://geps.dev/progress/4)
 
 ---
 
