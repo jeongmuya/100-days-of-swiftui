@@ -13,7 +13,7 @@ Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100
 - [x] [Day 1 - Variables, constants, strings, and numbers](./Days/Day-01)
 - [x] [Day 2 - Booleans, string interpolation, and checkpoint 1](./Days/Day-02)
 - [x] [Day 3 - Arrays, dictionaries, sets, and enums](./Days/Day-03)
-- [ ] [Day 4 - Type annotations and checkpoint 2](./Days/Day-04)
+- [x] [Day 4 - Type annotations and checkpoint 2](./Days/Day-04)
 - [ ] [Day 5 - If, switch, and the ternary operator](./Days/Day-05)
 - [ ] [Day 6 - Loops, summary, and checkpoint 3](./Days/Day-06)
 - [ ] [Day 7 - Functions, parameters, and return values](./Days/Day-07)
