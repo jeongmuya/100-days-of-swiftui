@@ -3,7 +3,7 @@
 Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) 커리큘럼을 따라 학습한 내용을 기록하는 저장소입니다.
 
 ## 📊 Progress
-![Progress](https://geps.dev/progress/4)
+![Progress](https://geps.dev/progress/5)
 
 ---
 
@@ -14,7 +14,7 @@ Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100
 - [x] [Day 2 - Booleans, string interpolation, and checkpoint 1](./Days/Day-02)
 - [x] [Day 3 - Arrays, dictionaries, sets, and enums](./Days/Day-03)
 - [x] [Day 4 - Type annotations and checkpoint 2](./Days/Day-04)
-- [ ] [Day 5 - If, switch, and the ternary operator](./Days/Day-05)
+- [x] [Day 5 - If, switch, and the ternary operator](./Days/Day-05)
 - [ ] [Day 6 - Loops, summary, and checkpoint 3](./Days/Day-06)
 - [ ] [Day 7 - Functions, parameters, and return values](./Days/Day-07)
 - [ ] [Day 8 - Default values, throwing functions, and checkpoint 4](./Days/Day-08)
