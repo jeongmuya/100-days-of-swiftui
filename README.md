@@ -3,7 +3,7 @@
 Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) 커리큘럼을 따라 학습한 내용을 기록하는 저장소입니다.
 
 ## 📊 Progress
-![Progress](https://geps.dev/progress/6)
+![Progress](https://geps.dev/progress/7)
 
 ---
 
@@ -16,7 +16,7 @@ Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100
 - [x] [Day 4 - Type annotations and checkpoint 2](./Days/Day-04)
 - [x] [Day 5 - If, switch, and the ternary operator](./Days/Day-05)
 - [x] [Day 6 - Loops, summary, and checkpoint 3](./Days/Day-06)
-- [ ] [Day 7 - Functions, parameters, and return values](./Days/Day-07)
+- [x] [Day 7 - Functions, parameters, and return values](./Days/Day-07)
 - [ ] [Day 8 - Default values, throwing functions, and checkpoint 4](./Days/Day-08)
 - [ ] [Day 9 - Closures, passing functions into functions, and checkpoint 5](./Days/Day-09)
 - [ ] [Day 10 - Structs, computed properties, and property observers](./Days/Day-10)
