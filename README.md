@@ -3,7 +3,7 @@
 Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) 커리큘럼을 따라 학습한 내용을 기록하는 저장소입니다.
 
 ## 📊 Progress
-![Progress](https://geps.dev/progress/13)
+![Progress](https://geps.dev/progress/14)
 
 ---
 
@@ -23,7 +23,7 @@ Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100
 - [x] [Day 11 - Access control, static properties and methods, and checkpoint 6](./Days/Day-11)
 - [x] [Day 12 - Classes, inheritance, and checkpoint 7](./Days/Day-12)
 - [x] [Day 13 - Protocols, extensions, and checkpoint 8](./Days/Day-13)
-- [ ] [Day 14 - Optionals, nil coalescing, and checkpoint 9](./Days/Day-14)
+- [x] [Day 14 - Optionals, nil coalescing, and checkpoint 9](./Days/Day-14)
 
 ### 🟨 Day 15: Consolidation I
 - [ ] [Day 15 - Swift review](./Days/Day-15)
