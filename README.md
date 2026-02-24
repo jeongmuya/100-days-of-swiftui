@@ -3,7 +3,7 @@
 Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui) 커리큘럼을 따라 학습한 내용을 기록하는 저장소입니다.
 
 ## 📊 Progress
-![Progress](https://geps.dev/progress/14)
+![Progress](https://geps.dev/progress/15)
 
 ---
 
@@ -26,7 +26,7 @@ Hacking with Swift의 [100 Days of SwiftUI](https://www.hackingwithswift.com/100
 - [x] [Day 14 - Optionals, nil coalescing, and checkpoint 9](./Days/Day-14)
 
 ### 🟨 Day 15: Consolidation I
-- [ ] [Day 15 - Swift review](./Days/Day-15)
+- [x] [Day 15 - Swift review](./Days/Day-15)
 
 ### 🟦 Days 16-24: Starting SwiftUI
 - [ ] [Day 16 - Project 1, part one](./Days/Day-16)
